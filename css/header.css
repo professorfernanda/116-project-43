@@ -1,0 +1,14 @@
+header {
+    background-color: var(--surface-color);
+    height: 60px;
+    position: sticky;
+    top: 0px;
+}
+
+.logo {
+    width: 20%;
+}
+
+nav {
+    width: 80%;
+}
